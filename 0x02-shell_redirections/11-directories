@@ -1,2 +1,2 @@
-#!/bin/bash
-
+# !/in/bash
+find . -type d -not -name . | wc -l
