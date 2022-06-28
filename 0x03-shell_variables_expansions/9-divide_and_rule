@@ -1,0 +1,2 @@
+#!/bin/baSH
+echo "$((${POWER} / ${DIVIDE}))"
